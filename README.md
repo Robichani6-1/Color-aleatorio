@@ -1,2 +1,6 @@
-# Color-aleatorio
-Web que muestra un color aleatorio cada vez que la refrescas.
+# Color aleatorio
+Generador de color aleatorio mediante HTML 5 y JAVASCRIPT
+
+[Página web](https://robichani6-1.github.io/Color-aleatorio/)
+
+
